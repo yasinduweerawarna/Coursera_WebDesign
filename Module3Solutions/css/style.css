@@ -32,3 +32,8 @@ nav {
 #footer {
     height: 50px;
 }
+@media (max-width: 540px) {
+    .items {
+        width: 90%;
+    }
+}
